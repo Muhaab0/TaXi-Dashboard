@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { IoIosArrowForward } from "react-icons/io";
 import { AiFillCalendar } from "react-icons/ai";
-import { MdTimelapse } from "react-icons/md";
+import { IoContrastSharp } from "react-icons/io5";
 import { IoMdCash } from "react-icons/io";
 import { cardStyles } from "./ReusableStyles";
 export default function FAQ() {
@@ -12,7 +12,7 @@ export default function FAQ() {
       text: "How to manage time and get good marks for trips",
     },
     {
-      icon: <MdTimelapse />,
+      icon: <IoContrastSharp />,
       text: "How to regulate transactions over time",
     },
     {

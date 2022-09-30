@@ -8,6 +8,7 @@ import Navbar from './Navbar';
 import Profiles from './Profiles';
 import Transfers from './Transfers';
 export default function Dashboard() {
+
   useEffect(() => {
     const sr = ScrollReveal({
       origin: "bottom",
