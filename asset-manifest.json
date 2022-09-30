@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TaXi-Dashboard/static/css/main.38f3e22c.css",
+    "main.js": "/TaXi-Dashboard/static/js/main.ddd707a9.js",
+    "static/media/profile.jpeg": "/TaXi-Dashboard/static/media/profile.2344c52c72ca7c436507.jpeg",
+    "static/media/avatarImage.jpeg": "/TaXi-Dashboard/static/media/avatarImage.d37df0395195993244c9.jpeg",
+    "index.html": "/TaXi-Dashboard/index.html",
+    "main.38f3e22c.css.map": "/TaXi-Dashboard/static/css/main.38f3e22c.css.map",
+    "main.ddd707a9.js.map": "/TaXi-Dashboard/static/js/main.ddd707a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38f3e22c.css",
+    "static/js/main.ddd707a9.js"
+  ]
+}
